@@ -10,4 +10,4 @@ If you want to clone it, type:
 git clone <insert-repo-url>
 ```
 
-The goal of this repo is a totally unrealistic astronomical instruemtn that can do all and everything in all wavelenghts with 0 error bars.
+The goal of this repo is a totally unrealistic astronomical instrument that can do all and everything in all wavelengths with 0 error bars.
