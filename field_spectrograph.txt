@@ -3,5 +3,6 @@
 - image slicer
 - collimator
 - grating
+- prism
 - camera
 - detector
